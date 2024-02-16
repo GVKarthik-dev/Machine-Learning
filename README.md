@@ -17,3 +17,6 @@
 ### 4. [Fuel Economy - Fuel Cost Analysis](Code/Fuel_Economy_fuelcost08_prediction.ipynb)
 
 - Efficient fuel consumption is a critical aspect of vehicle performance. This project analyzes fuel economy data to predict and optimize fuel costs. Understand the factors affecting fuel efficiency, evaluate the impact of different variables, and contribute to the development of eco-friendly transportation solutions.
+### 5. [Image Classification with Conventional Neural Network](Code/Conventional_neural_network_for_image_classification.ipynb)
+
+- This project presents a solution for image classification using a Conventional Neural Network (CNN). Dive into the realm of computer vision as the CNN identifies patterns and features in images, demonstrating its effectiveness in image recognition tasks.
